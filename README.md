@@ -1,3 +1,5 @@
+*Beyzanur Arslantaş/20010310017      *Seher Sude Ursavaş/20010310030      *Ezgi Pesen/20010310060
+
 # Basit Sohbet Uygulaması
 
 Bu proje, basit bir sohbet uygulamasını gerçekleştirmek için bir sunucu ve istemci tarafı kodlarını içerir.
