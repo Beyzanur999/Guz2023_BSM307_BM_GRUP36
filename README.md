@@ -1,5 +1,7 @@
 *Beyzanur Arslantaş/20010310017      *Seher Sude Ursavaş/20010310030      *Ezgi Pesen/20010310060
 
+# Server(2) ve Client(2) dosyasını karşılıklı mesajlaşma için kullanabilirsiniz. Ama Server(3) mesajlarınızı karşıya şifreli olarak gönderecektir.
+
 # Basit Sohbet Uygulaması
 
 Bu proje, basit bir sohbet uygulamasını gerçekleştirmek için bir sunucu ve istemci tarafı kodlarını içerir.
