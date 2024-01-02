@@ -21,7 +21,7 @@ Bu proje, basit bir sohbet uygulamasını gerçekleştirmek için bir sunucu ve 
 
 ### Nasıl Kullanılır
 
-1. `client.py` dosyasını çalıştırın.
+1. 2 kez `client.py` dosyasını çalıştırın. Bu sayede 2 tane paneliniz olacaktır.
 2. Kullanıcı adınızı girin ve "Katıl" butonuna tıklayarak sunucuya bağlanın.
 3. Mesajlarınızı yazıp "Gönder" butonuna tıklayarak diğer kullanıcılarla iletişim kurun.
 
